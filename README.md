@@ -128,3 +128,6 @@ docker run -d \
 
 ```
 
+## 📫 Contact
+
+Built with ❤️ by [Sameer Gupta](https://github.com/SameerG16)
